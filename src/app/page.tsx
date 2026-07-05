@@ -44,7 +44,7 @@ export default function HomePage() {
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-8">
         <div>
           <h1 className="text-3xl font-bold">Blog</h1>
-          <p className="text-muted-foreground">Latest published articles</p>
+          <p className="text-muted-foreground">Latest published articles - UAS Test - UAS Test</p>
         </div>
         <div className="relative w-full md:w-64">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
